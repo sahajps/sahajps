@@ -1,8 +1,10 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my small world of NLP and CSS ...
 
 <!--
 **sahajps/sahajps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<a href="https://github.com/sahaps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sahajps&hide=contribs&line_height=24&include_all_commits=true&hide_title=true&count_private=true&show_icons=true&theme=graywhite" />
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
